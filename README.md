@@ -12,7 +12,7 @@
 ## Sobre Mim
 - 🎓 **Engenheiro Eletricista** em transição de carreira para **Ciência de Dados**.
 - 💡 Apaixonado por resolver problemas com dados, inteligência artificial e estatística aplicada.
-- 🎯 Estudando intensivamente para me especializar em **Processamento de Linguagem Natural (NLP)** e **Deep Learning**.
+- 🎯 Estudando intensivamente para me especializar em **Machine Learning**.
 
 ## 🛠️ Habilidades
 - **Linguagens**: Python, SQL
