@@ -1,6 +1,7 @@
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<p align="center"><em>“Você pode, certamente, ter um entendimento profundo da natureza por meio de medidas quantitativas, 
+mas você deve saber do que está falando antes que comece a usar os números para fazer previsões.”</em></p>
+<p align="center"><strong>— Lewis Thomas</strong></p>
+
 # Olá! Eu sou Rodrigo Campos
 
 ## Sobre Mim
