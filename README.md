@@ -22,11 +22,9 @@
 
 ## 📊 Projetos em Destaque
 
-1. **[Modelo de Regressão Simples: Otimização de Variáveis](https://github.com/seu-usuario/regression-project)**  
+1. **[Modelo de Regressão Simples: Otimização de Variáveis](https://github.com/RodrigoCamposDS/modelo-regressao-simples)**  
    - Explorando problemas de multicolinearidade e modelos ajustados para previsão.
 
-2. **[Meu portfólio de vendas](https://github.com/seu-usuario/sales-analysis)**  
-   - Projeto que destaca a análise de dados de vendas usando técnicas estatísticas.
 
 ## 📚 O que estou estudando agora
 - 📖 **Curso Atual**:
