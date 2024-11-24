@@ -1,4 +1,6 @@
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 # Olá! Eu sou Rodrigo Campos
 
 ## Sobre Mim
@@ -31,5 +33,10 @@
 - 🧠 Exploração profunda de frameworks como TensorFlow e PyTorch.
 
 ## 🌎 Conecte-se comigo
-- 🌎 [LinkedIn](https://www.linkedin.com/in/rodrigo-barcelos-campos/)
-- ✉️  Email: rodrigocamposag90@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+<p align="left">
+  <a href="rodrigocamposag90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+rodrigocamposag90@gmail.com
