@@ -15,14 +15,11 @@
 - **Outras Habilidades**: Controle de Versão (Git/GitHub), Análise Estatística
 
 ## 📊 Projetos em Destaque
-1. **[Análise de RFM para e-commerce em 37 países](https://github.com/seu-usuario/rfm-analysis)**  
-   - Análise baseada em recência, frequência e valor monetário dos clientes.
-   - Aplicação prática em dados reais para segmentação de clientes.
 
-2. **[Modelo de Regressão Simples: Otimização de Variáveis](https://github.com/seu-usuario/regression-project)**  
+1. **[Modelo de Regressão Simples: Otimização de Variáveis](https://github.com/seu-usuario/regression-project)**  
    - Explorando problemas de multicolinearidade e modelos ajustados para previsão.
 
-3. **[Meu portfólio de vendas](https://github.com/seu-usuario/sales-analysis)**  
+2. **[Meu portfólio de vendas](https://github.com/seu-usuario/sales-analysis)**  
    - Projeto que destaca a análise de dados de vendas usando técnicas estatísticas.
 
 ## 📚 O que estou estudando agora
