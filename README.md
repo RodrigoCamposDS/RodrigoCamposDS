@@ -31,4 +31,5 @@
 - 🧠 Exploração profunda de frameworks como TensorFlow e PyTorch.
 
 ## 🌎 Conecte-se comigo
-- ✉️ [Gmail](mailto:rodrigocampos@gmail.com)
+- 🌎 [LinkedIn](https://www.linkedin.com/in/rodrigo-barcelos-campos/)
+- ✉️  Email: rodrigocamposag90@gmail.com
