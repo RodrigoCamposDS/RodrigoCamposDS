@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Rodrigo Campos
+# Olá! Eu sou Rodrigo Campos
 
 ## Sobre Mim
 - 🎓 **Engenheiro Eletricista** em transição de carreira para **Ciência de Dados**.
@@ -23,7 +23,9 @@
    - Projeto que destaca a análise de dados de vendas usando técnicas estatísticas.
 
 ## 📚 O que estou estudando agora
-- 📖 **Curso Atual**: [Processamento Neural de Linguagem Natural em Português I (USP)](https://github.com)
+- 📖 **Curso Atual**:
+- [Cientista de Dados (DNC)]([https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/module/6](https://aluno.dnc.group/painel))
+- [Processamento Neural de Linguagem Natural em Português I (USP)](https://www.coursera.org/learn/processamento-neural-linguagem-natural-em-portugues-i/home/module/6)
 - 🤖 Estudando **Transformers e modelos BERT para NLP**.
 - 🧠 Exploração profunda de frameworks como TensorFlow e PyTorch.
 
