@@ -1,6 +1,11 @@
-<p align="center"><em>“Você pode, certamente, ter um entendimento profundo da natureza por meio de medidas quantitativas, 
-mas você deve saber do que está falando antes que comece a usar os números para fazer previsões.”</em></p>
-<p align="center"><strong>— Lewis Thomas</strong></p>
+<p align="center">
+  <em>“A tarefa de converter observações em números é a mais difícil de todas, a última e não a primeira coisa a fazer, e pode ser feita somente quando você aprendeu bastante sobre as observações.”</em>
+</p>
+<p align="right">
+ <strong>"Lewis Thomas"</strong>
+ </p>
+
+
 
 # Olá! Eu sou Rodrigo Campos
 
