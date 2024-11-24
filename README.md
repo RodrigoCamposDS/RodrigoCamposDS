@@ -29,6 +29,6 @@
 - 🤖 Estudando **Transformers e modelos BERT para NLP**.
 - 🧠 Exploração profunda de frameworks como TensorFlow e PyTorch.
 
-## 🌐 Conecte-se comigo
-- 🌎 [LinkedIn](https://www.linkedin.com/in/rodrigo-barcelos-campos/)
-- 📧 Email: rodrigocamposag90@gmail.com
+## 🌎 Conecte-se comigo
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-barcelos-campos/)
+- ✉️ Email: rodrigocamposag90@gmail.com
