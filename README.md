@@ -23,7 +23,7 @@
 ## 📊 Projetos em Destaque
 
 1. **[Modelo de Regressão Simples: Otimização de Variáveis](https://github.com/RodrigoCamposDS/modelo-regressao-simples)**  
-   - Explorando problemas de multicolinearidade e modelos ajustados para previsão.
+   - Explorando problemas de variância, heterocedasticidade, multicolinearidade e modelos ajustados para previsão.
 
 
 ## 📚 O que estou estudando agora
