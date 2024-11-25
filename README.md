@@ -1,17 +1,13 @@
-<p align="center">
-  <em>“A tarefa de converter observações em números é a mais difícil de todas, a última e não a primeira coisa a fazer, e pode ser feita somente quando você aprendeu bastante sobre as observações.”</em>
-</p>
-<p align="right">
- <strong>"Lewis Thomas"</strong>
- </p>
-
+> "A tarefa de converter observações em números é a mais difícil de todas, a última e não a primeira coisa a fazer, e pode ser feita somente quando você aprendeu bastante sobre as observações."
+>
+> — Lewis Thomas
 
 
 # Olá! Eu sou Rodrigo Campos
 
 ## Sobre Mim
 - 🎓 **Engenheiro Eletricista** em transição de carreira para **Ciência de Dados**.
-- 💡 Apaixonado por resolver problemas com dados, inteligência artificial e estatística aplicada.
+- 💡 Apaixonado por resolver problemas com dados, inteligência artificial e estatística aplicada.S
 - 🎯 Estudando intensivamente para me especializar em **Machine Learning**.
 
 ## 🛠️ Habilidades
