@@ -3,11 +3,6 @@
 > — Lewis Thomas
 
 
-<<<<<<< HEAD
-
-
-
-=======
 
 Autodidata e entusiasta por desafios!
 
@@ -20,7 +15,6 @@ Tenho experiência prática em **modelagem preditiva**, **análise estatística*
 Sou motivado pela busca de **soluções inteligentes e inovadoras** por meio de **modelos matemáticos** e **algoritmos de aprendizado de máquina**, com um forte compromisso com a **tomada de decisão orientada por dados**.
 
 ---
->>>>>>> 682b3bc (Atualização do README.md RodrigoCamposDS)
 
 ## **Habilidades Técnicas**
 - **Programação:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
@@ -29,8 +23,6 @@ Sou motivado pela busca de **soluções inteligentes e inovadoras** por meio de 
 - **Big Data:** AWS S3, Azure Blob Storage, Databricks  
 - **Desenvolvimento de APIs:** FastAPI, Flask  
 
-<<<<<<< HEAD
-=======
 ---
 
 ## **Projetos em Desenvolvimento**
@@ -51,4 +43,3 @@ Estou constantemente aprimorando minhas habilidades por meio de **projetos prát
 - **GitHub:** [RodrigoCamposDS](https://github.com/RodrigoCamposDS)  
 - **Email:** rodrigocamposag90@gmail.com 
 - **Medium:** [Rodrigo Campos](https://medium.com/@rodrigocamposag90)
->>>>>>> 682b3bc (Atualização do README.md RodrigoCamposDS)
