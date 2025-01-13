@@ -8,7 +8,7 @@ Autodidata e entusiasta por desafios!
 
 # **Rodrigo Barcelos Campos - Engenheiro Eletricista & Cientista de Dados**
 
- **Cientista de Dados em desenvolvimento**, com foco em **Machine Learning**, **Estatística Aplicada** e **Análise de Dados**, trazendo uma abordagem orientada a dados para resolver desafios complexos.**.
+ **Cientista de Dados em desenvolvimento**, com foco em **Machine Learning**, **Estatística Aplicada** e **Análise de Dados**, trazendo uma abordagem orientada a dados para resolver desafios complexos.
 
 Tenho experiência prática em **modelagem preditiva**, **análise estatística** e **visualização de dados**, aplicando técnicas como **regressão**, **classificação**, e **análise de séries temporais** para transformar dados brutos em insights estratégicos.
 
@@ -38,8 +38,32 @@ Estou constantemente aprimorando minhas habilidades por meio de **projetos prát
 
 ---
 
+## **Ferramentas Principais**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+## **Aprendendo Atualmente**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF4035?style=for-the-badge&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
 ## **Contato**
-- **LinkedIn:** [Rodrigo Barcelos Campos](https://www.linkedin.com/in/rodrigo-barcelos-campos/)  
-- **GitHub:** [RodrigoCamposDS](https://github.com/RodrigoCamposDS)  
-- **Email:** rodrigocamposag90@gmail.com 
-- **Medium:** [Rodrigo Campos](https://medium.com/@rodrigocamposag90)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-barcelos-campos/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rodrigocamposag90) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigocamposag90@gmail.com "rodrigocamposag90@gmail.com")
