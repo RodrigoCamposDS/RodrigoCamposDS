@@ -2,7 +2,7 @@
 # Olá! Prazer, sou o Rodrigo! 
 
 
-_**Autodidata, entusiasta por desafios e Mineiro!**_ &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/120px-Bandeira_de_Minas_Gerais.svg.png" alt="Bandeira de Minas Gerais" width="20">
+_**Mineiro, autodidata e entusiasta por desafios!**_ &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/120px-Bandeira_de_Minas_Gerais.svg.png" alt="Bandeira de Minas Gerais" width="20">
 
 
 ## **Sobre mim:**
