@@ -7,7 +7,7 @@ _**Mineiro, autodidata e entusiasta por desafios!**_ &nbsp; <img src="https://up
 
 ## **Sobre mim:**
 
- Sou graduado em **Engenharia Elétrica**, **Cientista de Dados em desenvolvimento**, com foco em **Machine Learning**, **Estatística Aplicada** e **Análise de Dados**, trazendo uma abordagem orientada a dados para resolver desafios complexos.
+ ⚡ Sou graduado em **Engenharia Elétrica**, **Cientista de Dados em desenvolvimento**, com foco em **Machine Learning**, **Estatística Aplicada** e **Análise de Dados**, trazendo uma abordagem orientada a dados para resolver desafios complexos.
 
 Tenho experiência prática em **modelagem preditiva**, **análise estatística** e **visualização de dados**, aplicando técnicas para transformar dados brutos em insights estratégicos.
 
